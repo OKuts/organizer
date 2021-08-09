@@ -1,0 +1,9 @@
+export enum tasksTypes {
+    SET_TASKS = 'SET_TASKS',
+    ADD_TASK = 'ADD_TASK',
+    EDIT_TASK = 'EDIT_TASK',
+    DELETE_TASK = 'DELETE_TASK',
+    SET_TAGS = 'SET_TAGS',
+    SET_EDIT_ID = 'SET_EDIT_ID',
+    COMPLETE_TASK = 'COMPLETE_TASK',
+}
